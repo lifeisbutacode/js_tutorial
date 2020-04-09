@@ -25,7 +25,8 @@ console.log(name);   //Will print Tom
 console.log(age);    //Will print 16
 
 // ============
-// ============
+// ************
+// ============ 
 
 /*  Difference of let, var and Const */
 
@@ -70,7 +71,8 @@ function letVsConst(){
 letVsConst();
 
 // ============
-// ============
+// ************
+// ============ 
 
 
 /* 
@@ -110,3 +112,5 @@ console.log(device, DeViCe, Device);
 // finally, else, switch, and other RESERVED WORDS are defined and used by Javascript already, and can't be used for your own variable declaration 
 
 // ============
+// ************
+// ============ 

@@ -8,7 +8,8 @@ There are two conditional statements, namely : if else and switch statement
 */
 
 // ============
-// ============ 
+// ************
+// ============
 
 /* 
   If Else Statement
@@ -62,7 +63,8 @@ if(number_1 > 100){
 
 
 // ============
-// ============ 
+// ************
+// ============  
 
 /* 
 
